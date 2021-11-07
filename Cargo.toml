@@ -1,0 +1,11 @@
+[package]
+name = "rustgrep"
+version = "0.1.0"
+edition = "2021"
+authors = ["berquerant"]
+readme = "README.md"
+repository = "https://github.com/berquerant/rustgrep"
+
+[dependencies]
+regex = "1"
+clap = "3.0.0-beta.5"
